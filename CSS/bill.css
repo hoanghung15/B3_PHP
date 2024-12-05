@@ -1,0 +1,47 @@
+#searchOrder {
+  width: 200px;
+  height: 37.6px;
+}
+.btnSort {
+  background-color: white;
+}
+#inputDate {
+  width: 200px;
+  height: 37.6px;
+  padding-left: 20px;
+}
+.table tbody tr td {
+  color: #686767;
+}
+.table td {
+  vertical-align: middle;
+}
+.table-hover tbody tr:hover td {
+  background-color: #87c365; /* Màu nâu cho hover */
+  color: white; /* Đổi màu chữ nếu cần */
+}
+td:hover {
+  color: white;
+}
+.table-hover tbody tr:hover .divStatus {
+  background: #369600;
+}
+
+.divStatus {
+  width: 88.11px;
+  text-align: center;
+  background-color: #87c365;
+}
+.divStatusError {
+  width: 88.11px;
+  text-align: center;
+  background-color: #ea4f5b;
+}
+
+.pHeaderCollapse {
+  color: #7e3bd3;
+}
+.imgFoodDiv {
+  width: 40px;
+  height: 40px;
+}

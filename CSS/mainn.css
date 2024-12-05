@@ -1,0 +1,16 @@
+body {
+  font-family: Roboto;
+  background-color: #eaeaea;
+}
+.a-item {
+  text-decoration: none;
+}
+.adminDiv {
+  align-items: center;
+}
+.mainContainer {
+  margin-top: 100px;
+}
+.cardView:hover {
+  transform: translateY(-10px);
+}

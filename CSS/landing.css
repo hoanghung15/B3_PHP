@@ -1,0 +1,49 @@
+.li-item {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: thin;
+}
+
+h6 {
+  font-size: 24px;
+}
+h1 {
+  font-size: 50px;
+}
+.img-abs {
+  left: 680px;
+  top: 200px;
+  max-width: 700px;
+}
+.abs {
+  left: 600px;
+  max-width: 480px;
+}
+.th {
+  text-align: center;
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+}
+.scdDiv {
+  width: 100%;
+  padding-top: 80px;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: #faf7f2;
+}
+.test1 {
+  position: relative; /* Thêm relative để làm cơ sở cho .test2 */
+}
+.loginForm {
+  top: 90px;
+  left: 50%; /* Đặt trái ở giữa */
+  transform: translateX(-50%);
+  width: 820px;
+  height: 500px;
+  background-color: #faf7f2;
+  background-image: url(../asset/DeWatermark.ai_1731262219366.png);
+}
+.inputForm {
+  width: 300px;
+}
